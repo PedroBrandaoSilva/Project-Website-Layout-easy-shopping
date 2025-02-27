@@ -1,10 +1,7 @@
 <h1>Easy Shooping</h1>
 <br>
-<br>
-<br>
-<br>
-<h2>Projeto que aprendi no <a href="https://rodolfomori.com.br/">DevClub</a></h2>
-<br>
+<p>Projeto que aprendi no <a href="https://rodolfomori.com.br/">DevClub</a></p>
+<h2>Descrição</h2>
 <p align="left">Projeto criado usando html e css, e aplicando responsividade para melhor otimização<br>Visando aprender várias formas de estilização com css, por exemplo, a propriedade position<br>
 Sendo apenas, uma das várias propriedades que podem ser usadas, para o mesmo posicionamento das Tags</p>
 
